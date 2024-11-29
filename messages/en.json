@@ -1,0 +1,66 @@
+{
+  "foot-title-1": "Home",
+  "LocaleSwitcher": {
+    "label": "Change Language",
+    "locale": "{locale, select, ar { AR } en { EN } other {Unknown} }"
+  },
+  "about": {
+    "btn": "Join Now",
+    "sub": "Welcome to our exclusive online auction platform, where history enthusiasts and collectors converge to discover and acquire some of the world's rarest and most valuable coins and banknotes. Whether you are a seasoned collector or a passionate newcomer, our curated selection offers something extraordinary for everyone",
+    "title": "Discover The Treasures of History and Value"
+  },
+  "buy": {
+    "title": "Buy Page"
+  },
+  "sell": {
+    "title": "Sell page"
+  },
+  "contact": {
+    "title": "Conatct page"
+  },
+  "home": {
+    "hero": {
+      "abt": "Go to About",
+      "join-btn": "Join Now",
+      "sub": "Welcome to our exclusive online auction platform, where history enthusiasts and collectors converge to discover and acquire some of the world's rarest and most valuable coins.",
+      "title": "Welcome to Saudi Arabia's Premier Rare Coin Auction House"
+    },
+    "sec_2": {
+      "cat_1": "Bank Notes",
+      "cat_2": "Cars",
+      "cat_3": "Coins",
+      "cat_4": "Stamps",
+      "cat_5": "Documents",
+      "cat_6": "Sword & Weapons",
+      "cat_7": "Arts",
+      "title": "Browse All Categories"
+    },
+    "sec_3": {
+      "art_1-title": "Title of the Article 1",
+      "art-btn": "Register to bid",
+      "title": "Upcoming Auctions"
+    },
+    "sec_4": {
+      "sub": "Welcome to our exclusive online auction platform, where history enthusiasts and collectors converge to discover and acquire some of the world's rarest and most valuable coins and banknotes. Whether you are a seasoned collector or a passionate newcomer, our curated selection offers something extraordinary for everyone.",
+      "title": "About"
+    },
+    "sec5": {
+      "appStore_title": "Download App On",
+      "playStore_title": "Get it On"
+    },
+    "sec_5": {
+      "sub": "Download our Convenient to use, Auction App Today, Available Both On App Store And Google Play.",
+      "title": "Download Our App Today\n"
+    }
+  },
+  "nav": {
+    "item_1": "Home",
+    "item_2": "Learn",
+    "item_3": "faq",
+    "item_4": "Sell",
+    "item_5": "Contact",
+    "item_6": "Catalog",
+    "item_7": "Auctions",
+    "login_btn": "Sign In"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "auctions": [
+    {
+      "id": "001",
+      "title": "Vintage Musical Instruments Auction",
+      "description": "An exclusive auction featuring rare and collectible musical instruments.",
+      "start_date": "2024-10-01T10:00:00Z",
+      "end_date": "2024-10-07T18:00:00Z",
+      "location": "",
+      "currency": ["USD", "SAR"],
+      "item_ids": ["001a", "001b", "001c", "001d","001e","001f" ],
+      "status": "upcoming"
+    },
+    {
+      "id": "002",
+      "title": "Classic Cars Auction",
+      "description": "Showcasing a collection of classic cars from the 1950s and 1960s.",
+      "start_date": "2024-10-15T10:00:00Z",
+      "end_date": "2024-10-22T18:00:00Z",
+      "location": "Los Angeles, CA, USA",
+      "currency": ["USD", "EUR"],
+      "item_ids": ["002a", "002b", "002c","002d"],
+      "status": "upcoming"
+    },
+    {
+      "id": "003",
+      "title": "Fine Art Auction",
+      "description": "Featuring fine art from renowned artists and emerging talents.",
+      "start_date": "2024-11-01T10:00:00Z",
+      "end_date": "2024-11-08T18:00:00Z",
+      "location": "New York, NY, USA",
+      "currency": ["USD", "GBP"],
+      "item_ids": ["003a", "003b"],
+      "status": "upcoming"
+    },
+    {
+      "id": "004",
+      "title": "Antique Furniture Auction",
+      "description": "A collection of antique furniture pieces from various periods.",
+      "start_date": "2024-11-10T10:00:00Z",
+      "end_date": "2024-11-17T18:00:00Z",
+      "location": "London, UK",
+      "currency": ["GBP", "USD"],
+      "item_ids": ["004a", "004b", "004c", "004d"],
+      "status": "upcoming"
+    },
+    {
+      "id": "005",
+      "title": "Historical Memorabilia Auction",
+      "description": "Auction featuring rare historical items and collectibles.",
+      "start_date": "2024-08-01T10:00:00Z",
+      "end_date": "2024-08-07T18:00:00Z",
+      "location": "Philadelphia, PA, USA",
+      "currency": ["USD"],
+      "item_ids": ["005a", "005b"],
+      "status": "closed"
+    }
+  ]
+}

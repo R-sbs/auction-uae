@@ -1,0 +1,1134 @@
+{
+  "items": [
+    {
+      "id": "001a",
+      "auction_id": "001",
+      "name": "Antique 18th Century Pocket Watch",
+      "short_description": "Rare 18th-century pocket watch with a beautifully engraved silver case, classic Roman numeral dial, and original movement in working condition.",
+      "long_description": "This rare 18th-century pocket watch is a stunning example of historical craftsmanship. The watch features a beautifully engraved silver case, showcasing intricate designs typical of its era. The Roman numeral dial adds a classic touch, while the original movement ensures it remains in working condition. This timepiece serves as both a functional accessory and a significant collector's item, reflecting the elegance and precision of 18th-century watchmaking. Condition: The pocket watch is in excellent working condition, with all components functioning as intended. The silver case shows minor signs of wear consistent with its age but remains in very good condition overall. The original movement has been maintained and is operational. Features include a silver case with intricate engravings, a classic Roman numeral dial, and the original movement ensuring authenticity and operational integrity. Provenance: From a private collection, previously owned by a notable watchmaker, adding historical significance to its impressive pedigree.",
+      "category": "Arts",
+      "condition": "Antique – Working Condition",
+      "estimated_value": {
+        "usd": 2500,
+        "sar": 9375
+      },
+      "is_buy_now_available": false,
+      "buy_now_price": null,
+      "details": {
+        "dimensions": {
+          "weight": "1 lb",
+          "size": "2 x 2 x 0.5 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/416339/pexels-photo-416339.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Front view of the antique 18th-century pocket watch showing the engraved silver case and Roman numeral dial."
+          },
+          {
+            "url": "https://images.pexels.com/photos/295885/pexels-photo-295885.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Side view of the pocket watch, highlighting the intricate engravings on the silver case."
+          }
+        ],
+        "provenance": "From a private collection, previously owned by a notable watchmaker.",
+        "authentication": "Includes an appraisal certificate from a certified watchmaker, verifying authenticity and historical value."
+      },
+      "auction_details": {
+        "start_date": "2024-10-01T10:00:00Z",
+        "end_date": "2024-10-07T18:00:00Z",
+        "starting_bid": {
+          "usd": 1000,
+          "sar": 3750
+        },
+        "bid_increment": {
+          "usd": 50,
+          "sar": 187.5
+        },
+        "reserve_price": {
+          "usd": 2500,
+          "sar": 9375
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 30,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-07-01T08:00:00-04:00",
+      "updated_at": "2024-07-15T12:00:00-04:00"
+    },
+    {
+      "id": "001b",
+      "auction_id": "001",
+      "name": "Rare 1920s Violin",
+      "short_description": "A beautifully crafted violin from the 1920s with a rich, warm sound and exquisite detailing.",
+      "long_description": "This 1920s violin is a remarkable example of early 20th-century craftsmanship. It features a rich, warm sound and exquisite detailing, making it a prized addition to any collection. The violin has been well-maintained and is in excellent playable condition. Condition: The violin is in good condition with some minor signs of use on the body and varnish. The sound quality remains excellent, and it has been regularly maintained by a professional luthier. Features include a finely crafted body with detailed inlays and a smooth, rich tone. Provenance: This violin has been part of a private collection for decades and is known for its exceptional sound quality.",
+      "category": "Arts",
+      "condition": "Vintage – Excellent Playable Condition",
+      "estimated_value": {
+        "usd": 3000,
+        "sar": 11250
+      },
+      "is_buy_now_available": false,
+      "buy_now_price": null,
+      "details": {
+        "dimensions": {
+          "weight": "2 lbs",
+          "size": "14 inches (body length)"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/2166784/pexels-photo-2166784.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Close-up of the 1920s violin showcasing its craftsmanship and detailing."
+          }
+        ],
+        "provenance": "Part of a private collection for decades.",
+        "authentication": "Includes a certificate of authenticity from a professional luthier."
+      },
+      "auction_details": {
+        "start_date": "2024-10-01T10:00:00Z",
+        "end_date": "2024-10-07T18:00:00Z",
+        "starting_bid": {
+          "usd": 1500,
+          "sar": 5625
+        },
+        "bid_increment": {
+          "usd": 75,
+          "sar": 281.25
+        },
+        "reserve_price": {
+          "usd": 3000,
+          "sar": 11250
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 50,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-07-10T08:00:00-04:00",
+      "updated_at": "2024-07-20T12:00:00-04:00"
+    },
+    {
+      "id": "001c",
+      "auction_id": "001",
+      "name": "Vintage 1950s Trumpet",
+      "short_description": "A classic trumpet from the 1950s with a bright, powerful sound and excellent craftsmanship.",
+      "long_description": "This 1950s trumpet represents the high standards of craftsmanship from its era. It features a bright, powerful sound, making it ideal for jazz and classical performances. The trumpet has been refurbished to maintain its excellent condition. Condition: The trumpet is in very good condition with minor signs of use. It has been refurbished to ensure optimal performance. Features include a bright, resonant tone and smooth valves. Provenance: The trumpet has been part of a private collection and has been well cared for.",
+      "category": "Arts",
+      "condition": "Vintage – Very Good Condition",
+      "estimated_value": {
+        "usd": 1200,
+        "sar": 4500
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 1500,
+        "sar": 5625
+      },
+      "details": {
+        "dimensions": {
+          "weight": "3 lbs",
+          "size": "24 inches (length)"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Close-up of the vintage 1950s trumpet showing its bright brass finish."
+          }
+        ],
+        "provenance": "Part of a private collection.",
+        "authentication": "Refurbished by a professional instrument technician."
+      },
+      "auction_details": {
+        "start_date": "2024-10-01T10:00:00Z",
+        "end_date": "2024-10-07T18:00:00Z",
+        "starting_bid": {
+          "usd": 800,
+          "sar": 3000
+        },
+        "bid_increment": {
+          "usd": 40,
+          "sar": 150
+        },
+        "reserve_price": {
+          "usd": 1200,
+          "sar": 4500
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 40,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-07-20T08:00:00-04:00",
+      "updated_at": "2024-07-25T12:00:00-04:00"
+    },
+    {
+      "id": "001d",
+      "auction_id": "001",
+      "name": "Classic 1920s Grand Piano",
+      "short_description": "An elegantly crafted grand piano from the 1920s with a rich, deep sound and a polished mahogany finish.",
+      "long_description": "This classic 1920s grand piano is a timeless piece of musical history. With its polished mahogany finish and rich, deep sound, it represents the elegance and craftsmanship of its era. The piano has been meticulously restored to maintain its exceptional condition and performance. Condition: The piano is in excellent condition with a polished finish and a well-maintained action. Features include a full 88-key keyboard, a rich tonal quality, and a beautifully crafted mahogany case. Provenance: The piano has been part of a private collection and has been carefully restored by a professional technician.",
+      "category": "Arts",
+      "condition": "Restored – Excellent Condition",
+      "estimated_value": {
+        "usd": 8000,
+        "sar": 30000
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 10000,
+        "sar": 37500
+      },
+      "details": {
+        "dimensions": {
+          "weight": "500 lbs",
+          "size": "60 x 40 x 36 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/3072880/pexels-photo-3072880.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Elegant 1920s grand piano with a polished mahogany finish."
+          }
+        ],
+        "provenance": "Part of a private collection, meticulously restored by a professional technician.",
+        "authentication": "Includes a certificate of restoration and maintenance."
+      },
+      "auction_details": {
+        "start_date": "2024-10-01T10:00:00Z",
+        "end_date": "2024-10-07T18:00:00Z",
+        "starting_bid": {
+          "usd": 5000,
+          "sar": 18750
+        },
+        "bid_increment": {
+          "usd": 250,
+          "sar": 937.5
+        },
+        "reserve_price": {
+          "usd": 8000,
+          "sar": 30000
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 500,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-08-01T08:00:00-04:00",
+      "updated_at": "2024-08-15T12:00:00-04:00"
+    },
+    {
+      "id": "001e",
+      "auction_id": "001",
+      "name": "Vintage 1950s Acoustic Guitar",
+      "short_description": "A beautifully aged acoustic guitar from the 1950s with a warm, resonant sound and classic craftsmanship.",
+      "long_description": "This 1950s acoustic guitar is a classic example of mid-20th-century craftsmanship. It features a warm, resonant sound and has been well-preserved over the decades. The guitar is ideal for collectors and musicians looking for a piece of vintage musical history. Condition: The guitar is in very good condition with some minor signs of wear. It has been carefully maintained and features a rich, warm tone. Features include a solid wood construction and original hardware. Provenance: The guitar has been part of a private collection and has been played sparingly.",
+      "category": "Arts",
+      "condition": "Vintage – Very Good Condition",
+      "estimated_value": {
+        "usd": 1500,
+        "sar": 5625
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 2000,
+        "sar": 7500
+      },
+      "details": {
+        "dimensions": {
+          "weight": "4 lbs",
+          "size": "39 inches (length)"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/2178704/pexels-photo-2178704.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Vintage 1950s acoustic guitar with a classic wood finish."
+          }
+        ],
+        "provenance": "Part of a private collection, played sparingly.",
+        "authentication": "Includes a certificate of authenticity from a vintage instrument expert."
+      },
+      "auction_details": {
+        "start_date": "2024-10-01T10:00:00Z",
+        "end_date": "2024-10-07T18:00:00Z",
+        "starting_bid": {
+          "usd": 1000,
+          "sar": 3750
+        },
+        "bid_increment": {
+          "usd": 50,
+          "sar": 187.5
+        },
+        "reserve_price": {
+          "usd": 1500,
+          "sar": 5625
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 50,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-08-10T08:00:00-04:00",
+      "updated_at": "2024-08-20T12:00:00-04:00"
+    },
+    {
+      "id": "001f",
+      "auction_id": "001",
+      "name": "1920s Brass Saxophone",
+      "short_description": "A vintage brass saxophone from the 1920s with a rich, smooth sound and intricate detailing.",
+      "long_description": "This 1920s brass saxophone is a rare find, featuring intricate detailing and a rich, smooth sound. It represents the high quality of craftsmanship from its era and has been carefully maintained. Condition: The saxophone is in good condition with some patina and minor signs of use. It has been serviced to ensure excellent playability. Features include a rich, smooth tone and detailed brass work. Provenance: This saxophone has been part of a private collection and has been played by professional musicians.",
+      "category": "Arts",
+      "condition": "Vintage – Good Condition",
+      "estimated_value": {
+        "usd": 1800,
+        "sar": 6750
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 2200,
+        "sar": 8250
+      },
+      "details": {
+        "dimensions": {
+          "weight": "6 lbs",
+          "size": "28 inches (length)"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/3311245/pexels-photo-3311245.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Vintage 1920s brass saxophone showcasing its intricate detailing."
+          }
+        ],
+        "provenance": "Part of a private collection, played by professional musicians.",
+        "authentication": "Includes a service record and certificate of authenticity."
+      },
+      "auction_details": {
+        "start_date": "2024-10-01T10:00:00Z",
+        "end_date": "2024-10-07T18:00:00Z",
+        "starting_bid": {
+          "usd": 1200,
+          "sar": 4500
+        },
+        "bid_increment": {
+          "usd": 60,
+          "sar": 225
+        },
+        "reserve_price": {
+          "usd": 1800,
+          "sar": 6750
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 60,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-08-15T08:00:00-04:00",
+      "updated_at": "2024-08-25T12:00:00-04:00"
+    },
+
+
+    {
+      "id": "002a",
+      "auction_id": "002",
+      "name": "1957 Chevrolet Bel Air",
+      "short_description": "A pristine 1957 Chevrolet Bel Air with a striking red exterior and classic white interior.",
+      "long_description": "This 1957 Chevrolet Bel Air is a true icon of American automotive history. With its striking red exterior and classic white interior, it represents the pinnacle of 1950s car design. The vehicle has been fully restored to its original condition and features a powerful V8 engine, automatic transmission, and original chrome accents. Condition: The car is in excellent condition, with a flawless exterior, a meticulously maintained engine, and a pristine interior. Features include power steering, power brakes, and original hubcaps. Provenance: This Bel Air has been part of a private collection and has been carefully restored by a professional classic car specialist.",
+      "category": "Cars",
+      "condition": "Restored – Excellent Condition",
+      "estimated_value": {
+        "usd": 35000,
+        "eur": 32000
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 45000,
+        "eur": 41000
+      },
+      "details": {
+        "dimensions": {
+          "weight": "3500 lbs",
+          "size": "15 x 6 x 5 feet"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/2655708/pexels-photo-2655708.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "1957 Chevrolet Bel Air with a striking red exterior."
+          }
+        ],
+        "provenance": "Part of a private collection, restored by a professional classic car specialist.",
+        "authentication": "Includes a restoration certification and service history."
+      },
+      "auction_details": {
+        "start_date": "2024-10-15T10:00:00Z",
+        "end_date": "2024-10-22T18:00:00Z",
+        "starting_bid": {
+          "usd": 30000,
+          "eur": 27000
+        },
+        "bid_increment": {
+          "usd": 2000,
+          "eur": 1800
+        },
+        "reserve_price": {
+          "usd": 35000,
+          "eur": 32000
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 1000,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-08-01T08:00:00-04:00",
+      "updated_at": "2024-08-15T12:00:00-04:00"
+    },
+    {
+      "id": "002b",
+      "auction_id": "002",
+      "name": "1965 Ford Mustang",
+      "short_description": "A classic 1965 Ford Mustang with a sleek black exterior and a powerful 289 cubic inch V8 engine.",
+      "long_description": "This 1965 Ford Mustang is a quintessential example of American muscle cars. Featuring a sleek black exterior and a powerful 289 cubic inch V8 engine, it offers both style and performance. The car has been carefully maintained and features a well-preserved interior with original upholstery and gauges. Condition: The Mustang is in very good condition with minor wear consistent with its age. It has a strong engine, a smooth transmission, and a clean interior. Features include power brakes, an AM radio, and original alloy wheels. Provenance: This Mustang has been a cherished vehicle in a private collection and has been maintained by classic car enthusiasts.",
+      "category": "Cars",
+      "condition": "Very Good Condition",
+      "estimated_value": {
+        "usd": 25000,
+        "eur": 23000
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 32000,
+        "eur": 29000
+      },
+      "details": {
+        "dimensions": {
+          "weight": "3000 lbs",
+          "size": "14 x 6 x 4.5 feet"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/1783866/pexels-photo-1783866.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "1965 Ford Mustang with a sleek black exterior."
+          }
+        ],
+        "provenance": "Part of a private collection, maintained by classic car enthusiasts.",
+        "authentication": "Includes service records and maintenance history."
+      },
+      "auction_details": {
+        "start_date": "2024-10-15T10:00:00Z",
+        "end_date": "2024-10-22T18:00:00Z",
+        "starting_bid": {
+          "usd": 20000,
+          "eur": 18000
+        },
+        "bid_increment": {
+          "usd": 1500,
+          "eur": 1350
+        },
+        "reserve_price": {
+          "usd": 25000,
+          "eur": 23000
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 800,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-08-10T08:00:00-04:00",
+      "updated_at": "2024-08-20T12:00:00-04:00"
+    },
+    {
+      "id": "002c",
+      "auction_id": "002",
+      "name": "1969 Dodge Charger",
+      "short_description": "A 1969 Dodge Charger with a classic white exterior and a 440 cubic inch V8 engine, featuring iconic styling and performance.",
+      "long_description": "This 1969 Dodge Charger is a muscle car legend, featuring a classic white exterior and a powerful 440 cubic inch V8 engine. Known for its iconic styling and high performance, this Charger is a prime example of American automotive engineering from the late 1960s. The car has been meticulously restored and features a refreshed interior with new upholstery and gauges. Condition: The Charger is in excellent condition with a strong engine and a well-maintained interior. It features the original body style, new tires, and updated brakes. Features include air conditioning, power steering, and upgraded audio system. Provenance: The Charger has been part of a prominent classic car collection and has undergone extensive restoration.",
+      "category": "Cars",
+      "condition": "Restored – Excellent Condition",
+      "estimated_value": {
+        "usd": 40000,
+        "eur": 37000
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 50000,
+        "eur": 46000
+      },
+      "details": {
+        "dimensions": {
+          "weight": "3600 lbs",
+          "size": "16 x 6 x 5 feet"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/237582/pexels-photo-237582.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "1969 Dodge Charger with a classic white exterior."
+          }
+        ],
+        "provenance": "Part of a prominent classic car collection, extensively restored.",
+        "authentication": "Includes a detailed restoration report and service history."
+      },
+      "auction_details": {
+        "start_date": "2024-10-15T10:00:00Z",
+        "end_date": "2024-10-22T18:00:00Z",
+        "starting_bid": {
+          "usd": 35000,
+          "eur": 32000
+        },
+        "bid_increment": {
+          "usd": 2500,
+          "eur": 2250
+        },
+        "reserve_price": {
+          "usd": 40000,
+          "eur": 37000
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 1200,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-08-15T08:00:00-04:00",
+      "updated_at": "2024-08-25T12:00:00-04:00"
+    },
+    {
+      "id": "002d",
+      "auction_id": "002",
+      "name": "1970 Plymouth Barracuda",
+      "short_description": "A 1970 Plymouth Barracuda with a rare Hemi engine, fully restored and featuring a distinctive orange exterior.",
+      "long_description": "This 1970 Plymouth Barracuda is a rare and desirable muscle car equipped with a legendary Hemi engine. The car features a distinctive orange exterior and has undergone a complete restoration, including a rebuilt engine, new interior, and updated suspension. Known for its powerful performance and unique styling, this Barracuda is a collector's dream. Condition: The Barracuda is in excellent condition with a fully rebuilt engine, a fresh interior, and updated suspension components. Features include a functional hood scoop, power brakes, and a performance exhaust system. Provenance: The car has been restored by a renowned specialist and is a highlight of many classic car shows.",
+      "category": "Cars",
+      "condition": "Restored – Excellent Condition",
+      "estimated_value": {
+        "usd": 45000,
+        "eur": 42000
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 55000,
+        "eur": 50000
+      },
+      "details": {
+        "dimensions": {
+          "weight": "3800 lbs",
+          "size": "16 x 6.5 x 5.5 feet"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/286056/pexels-photo-286056.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "1970 Plymouth Barracuda with a rare Hemi engine and distinctive orange exterior."
+          }
+        ],
+        "provenance": "Restored by a renowned specialist, a highlight of classic car shows.",
+        "authentication": "Includes a detailed restoration report and show records."
+      },
+      "auction_details": {
+        "start_date": "2024-10-15T10:00:00Z",
+        "end_date": "2024-10-22T18:00:00Z",
+        "starting_bid": {
+          "usd": 40000,
+          "eur": 37000
+        },
+        "bid_increment": {
+          "usd": 3000,
+          "eur": 2700
+        },
+        "reserve_price": {
+          "usd": 45000,
+          "eur": 42000
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 1300,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-08-20T08:00:00-04:00",
+      "updated_at": "2024-08-30T12:00:00-04:00"
+    },
+
+
+    {
+      "id": "003a",
+      "auction_id": "003",
+      "name": "Impressionist Landscape by Claude Monet",
+      "short_description": "An impressionist landscape painting by Claude Monet, capturing a serene natural scene with vibrant colors.",
+      "long_description": "This stunning impressionist landscape painting by Claude Monet showcases his masterful use of light and color. The piece depicts a tranquil natural scene with Monet's signature brushwork and vibrant palette. Condition: The painting is in pristine condition, framed professionally. Provenance: Acquired from a prestigious art collection with full documentation of authenticity.",
+      "category": "Arts",
+      "condition": "Pristine",
+      "estimated_value": {
+        "usd": 120000,
+        "gbp": 96000
+      },
+      "is_buy_now_available": false,
+      "buy_now_price": null,
+      "details": {
+        "dimensions": {
+          "weight": "10 lbs",
+          "size": "30 x 40 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/316251/pexels-photo-316251.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Impressionist landscape painting by Claude Monet, showcasing vibrant colors."
+          }
+        ],
+        "provenance": "Acquired from a prestigious art collection with full documentation.",
+        "authentication": "Includes a certificate of authenticity from a recognized art expert."
+      },
+      "auction_details": {
+        "start_date": "2024-11-01T10:00:00Z",
+        "end_date": "2024-11-08T18:00:00Z",
+        "starting_bid": {
+          "usd": 80000,
+          "gbp": 64000
+        },
+        "bid_increment": {
+          "usd": 5000,
+          "gbp": 4000
+        },
+        "reserve_price": {
+          "usd": 120000,
+          "gbp": 96000
+        },
+        "location": {
+          "city": "New York",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 200,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal", "Bank Transfer"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-08-01T08:00:00-04:00",
+      "updated_at": "2024-08-15T12:00:00-04:00"
+    },
+    {
+      "id": "003b",
+      "auction_id": "003",
+      "name": "Abstract Sculpture by Jackson Pollock",
+      "short_description": "A striking abstract sculpture by Jackson Pollock, known for its dynamic forms and expressive textures.",
+      "long_description": "This abstract sculpture by Jackson Pollock reflects his unique artistic approach, characterized by dynamic forms and textured surfaces. The sculpture provides a three-dimensional representation of Pollock's abstract expressionism. Condition: The sculpture is in excellent condition with no visible damage. Provenance: From a renowned collection of modern abstract art.",
+      "category": "Arts",
+      "condition": "Excellent",
+      "estimated_value": {
+        "usd": 75000,
+        "gbp": 60000
+      },
+      "is_buy_now_available": false,
+      "buy_now_price": null,
+      "details": {
+        "dimensions": {
+          "weight": "20 lbs",
+          "size": "18 x 18 x 30 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/1047361/pexels-photo-1047361.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Abstract sculpture by Jackson Pollock, featuring dynamic forms and textures."
+          }
+        ],
+        "provenance": "From a renowned collection of modern abstract art.",
+        "authentication": "Includes a certificate of authenticity from a recognized art expert."
+      },
+      "auction_details": {
+        "start_date": "2024-11-01T10:00:00Z",
+        "end_date": "2024-11-08T18:00:00Z",
+        "starting_bid": {
+          "usd": 50000,
+          "gbp": 40000
+        },
+        "bid_increment": {
+          "usd": 2500,
+          "gbp": 2000
+        },
+        "reserve_price": {
+          "usd": 75000,
+          "gbp": 60000
+        },
+        "location": {
+          "city": "New York",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 150,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal", "Bank Transfer"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-08-05T08:00:00-04:00",
+      "updated_at": "2024-08-15T12:00:00-04:00"
+    },
+
+
+    {
+      "id": "004a",
+      "auction_id": "004",
+      "name": "Victorian Oak Writing Desk",
+      "short_description": "A beautifully carved Victorian oak writing desk with intricate detailing and original brass handles.",
+      "long_description": "This Victorian oak writing desk is a stunning example of 19th-century craftsmanship. It features intricate carvings and original brass handles, reflecting the ornate style of the Victorian era. The desk has been carefully preserved and offers a spacious writing surface along with multiple drawers for storage. Condition: The desk is in excellent condition with minor signs of age-related wear. The oak wood is well-maintained, and the brass handles are original and functional. Features include a large writing surface, detailed carvings, and original brass hardware. Provenance: Acquired from a historic estate in the UK, adding to its historical value.",
+      "category": "Antiques",
+      "condition": "Excellent Condition",
+      "estimated_value": {
+        "usd": 4000,
+        "gbp": 3200
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 5000,
+        "gbp": 4000
+      },
+      "details": {
+        "dimensions": {
+          "weight": "150 lbs",
+          "size": "48 x 24 x 30 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/4070682/pexels-photo-4070682.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Victorian oak writing desk with intricate carvings and original brass handles."
+          }
+        ],
+        "provenance": "Acquired from a historic estate in the UK.",
+        "authentication": "Includes a certificate of authenticity from a recognized antique appraiser."
+      },
+      "auction_details": {
+        "start_date": "2024-11-10T10:00:00Z",
+        "end_date": "2024-11-17T18:00:00Z",
+        "starting_bid": {
+          "usd": 3500,
+          "gbp": 2800
+        },
+        "bid_increment": {
+          "usd": 200,
+          "gbp": 160
+        },
+        "reserve_price": {
+          "usd": 4000,
+          "gbp": 3200
+        },
+        "location": {
+          "city": "London",
+          "country": "UK"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 200,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-09-01T08:00:00-04:00",
+      "updated_at": "2024-09-15T12:00:00-04:00"
+    },
+    {
+      "id": "004b",
+      "auction_id": "004",
+      "name": "18th Century French Commode",
+      "short_description": "An elegant 18th-century French commode with floral inlays and curved legs, showcasing exquisite craftsmanship.",
+      "long_description": "This 18th-century French commode is an exemplary piece of antique furniture, featuring elegant floral inlays and gracefully curved legs. The commode has been well-preserved and retains its original finish, making it a beautiful addition to any antique collection. Condition: The commode is in very good condition with minor wear consistent with its age. The floral inlays are intact, and the finish has been carefully maintained. Features include ample storage space with two drawers and decorative brass handles. Provenance: Sourced from a renowned antique dealer in Paris.",
+      "category": "Antiques",
+      "condition": "Very Good Condition",
+      "estimated_value": {
+        "usd": 6000,
+        "gbp": 4800
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 7500,
+        "gbp": 6000
+      },
+      "details": {
+        "dimensions": {
+          "weight": "180 lbs",
+          "size": "40 x 22 x 36 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/2253878/pexels-photo-2253878.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "18th-century French commode with floral inlays and curved legs."
+          }
+        ],
+        "provenance": "Sourced from a renowned antique dealer in Paris.",
+        "authentication": "Includes a provenance certificate from a recognized antique authority."
+      },
+      "auction_details": {
+        "start_date": "2024-11-10T10:00:00Z",
+        "end_date": "2024-11-17T18:00:00Z",
+        "starting_bid": {
+          "usd": 5500,
+          "gbp": 4400
+        },
+        "bid_increment": {
+          "usd": 300,
+          "gbp": 240
+        },
+        "reserve_price": {
+          "usd": 6000,
+          "gbp": 4800
+        },
+        "location": {
+          "city": "London",
+          "country": "UK"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 300,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-09-10T08:00:00-04:00",
+      "updated_at": "2024-09-20T12:00:00-04:00"
+    },
+    {
+      "id": "004c",
+      "auction_id": "004",
+      "name": "Edwardian Mahogany Dining Table",
+      "short_description": "An Edwardian mahogany dining table with a polished finish and intricate inlay work, perfect for elegant dining rooms.",
+      "long_description": "This Edwardian mahogany dining table exemplifies the elegance of early 20th-century design. It features a polished finish and intricate inlay work, making it a stunning centerpiece for any dining room. The table has been well-maintained and offers ample seating for formal dining. Condition: The dining table is in excellent condition with a high-quality finish and detailed inlay work. It has been preserved with minimal wear. Features include a spacious tabletop, carved legs, and decorative inlays. Provenance: Originally part of a grand estate in the UK.",
+      "category": "Antiques",
+      "condition": "Excellent Condition",
+      "estimated_value": {
+        "usd": 8000,
+        "gbp": 6400
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 10000,
+        "gbp": 8000
+      },
+      "details": {
+        "dimensions": {
+          "weight": "200 lbs",
+          "size": "72 x 40 x 30 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/3585724/pexels-photo-3585724.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Edwardian mahogany dining table with a polished finish and intricate inlay work."
+          }
+        ],
+        "provenance": "Originally part of a grand estate in the UK.",
+        "authentication": "Includes a certificate of authenticity and provenance."
+      },
+      "auction_details": {
+        "start_date": "2024-11-10T10:00:00Z",
+        "end_date": "2024-11-17T18:00:00Z",
+        "starting_bid": {
+          "usd": 7000,
+          "gbp": 5600
+        },
+        "bid_increment": {
+          "usd": 500,
+          "gbp": 400
+        },
+        "reserve_price": {
+          "usd": 8000,
+          "gbp": 6400
+        },
+        "location": {
+          "city": "London",
+          "country": "UK"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 400,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-09-15T08:00:00-04:00",
+      "updated_at": "2024-09-25T12:00:00-04:00"
+    },
+    {
+      "id": "004d",
+      "auction_id": "004",
+      "name": "Regency Mahogany Bookcase",
+      "short_description": "A Regency mahogany bookcase with glass doors and intricate carvings, ideal for collectors and book lovers.",
+      "long_description": "This Regency mahogany bookcase is a splendid example of early 19th-century design, featuring glass doors and intricate carvings. The bookcase has been meticulously preserved and is perfect for collectors and book lovers. Condition: The bookcase is in very good condition with all original glass doors intact and detailed carvings well-maintained. Features include adjustable shelves and decorative carvings. Provenance: Originally sourced from a historic library in the UK.",
+      "category": "Antiques",
+      "condition": "Very Good Condition",
+      "estimated_value": {
+        "usd": 5000,
+        "gbp": 4000
+      },
+      "is_buy_now_available": true,
+      "buy_now_price": {
+        "usd": 6500,
+        "gbp": 5200
+      },
+      "details": {
+        "dimensions": {
+          "weight": "120 lbs",
+          "size": "36 x 15 x 70 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/3605707/pexels-photo-3605707.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Regency mahogany bookcase with glass doors and intricate carvings."
+          }
+        ],
+        "provenance": "Originally sourced from a historic library in the UK.",
+        "authentication": "Includes a provenance certificate and appraisal report."
+      },
+      "auction_details": {
+        "start_date": "2024-11-10T10:00:00Z",
+        "end_date": "2024-11-17T18:00:00Z",
+        "starting_bid": {
+          "usd": 4500,
+          "gbp": 3600
+        },
+        "bid_increment": {
+          "usd": 250,
+          "gbp": 200
+        },
+        "reserve_price": {
+          "usd": 5000,
+          "gbp": 4000
+        },
+        "location": {
+          "city": "London",
+          "country": "UK"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 250,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "upcoming"
+      },
+      "is_active": true,
+      "created_at": "2024-09-20T08:00:00-04:00",
+      "updated_at": "2024-09-30T12:00:00-04:00"
+    },
+    
+
+    {
+      "id": "005a",
+      "auction_id": "005",
+      "name": "George Washington's Personal Letter",
+      "short_description": "A historic letter written by George Washington to a prominent figure of the Revolutionary era.",
+      "long_description": "This personal letter, penned by George Washington, provides a unique glimpse into the thoughts and communications of one of America's Founding Fathers. The letter is dated from the Revolutionary era and is addressed to a key figure of the time, offering insights into historical events and personal reflections. Condition: The letter is in excellent condition for its age, with minor creases and fading consistent with its historical value. Features include Washington's signature and original ink writing. Provenance: Acquired from a private collection with documented history of ownership.",
+      "category": "Documents",
+      "condition": "Excellent Condition",
+      "estimated_value": {
+        "usd": 10000
+      },
+      "is_buy_now_available": false,
+      "buy_now_price": null,
+      "details": {
+        "dimensions": {
+          "weight": "0.2 lbs",
+          "size": "8 x 10 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/2953744/pexels-photo-2953744.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Historical letter written by George Washington with visible signature."
+          }
+        ],
+        "provenance": "Acquired from a private collection with documented history of ownership.",
+        "authentication": "Includes a certificate of authenticity from a recognized historical documents appraiser."
+      },
+      "auction_details": {
+        "start_date": "2024-08-01T10:00:00Z",
+        "end_date": "2024-08-07T18:00:00Z",
+        "starting_bid": {
+          "usd": 8000
+        },
+        "bid_increment": {
+          "usd": 500
+        },
+        "reserve_price": {
+          "usd": 10000
+        },
+        "location": {
+          "city": "Philadelphia",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 50,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "closed"
+      },
+      "is_active": false,
+      "created_at": "2024-07-01T08:00:00-04:00",
+      "updated_at": "2024-07-15T12:00:00-04:00"
+    },
+    {
+      "id": "005b",
+      "auction_id": "005",
+      "name": "Rare Civil War Medal",
+      "short_description": "A rare medal awarded to a Union soldier during the American Civil War.",
+      "long_description": "This Civil War medal, awarded to a Union soldier, is a rare and valuable collectible from one of America's most significant historical periods. The medal is in pristine condition, featuring detailed engravings and a ribbon in original colors. Condition: The medal is in excellent condition, with minimal signs of wear. The ribbon is well-preserved, and the engraving remains clear. Features include detailed engravings and original ribbon. Provenance: From a distinguished collection of Civil War memorabilia.",
+      "category": "Documents",
+      "condition": "Excellent Condition",
+      "estimated_value": {
+        "usd": 6000
+      },
+      "is_buy_now_available": false,
+      "buy_now_price": null,
+      "details": {
+        "dimensions": {
+          "weight": "0.1 lbs",
+          "size": "2 x 2 inches"
+        },
+        "photos": [
+          {
+            "url": "https://images.pexels.com/photos/2287732/pexels-photo-2287732.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "alt_text": "Rare Civil War medal with original ribbon and detailed engravings."
+          }
+        ],
+        "provenance": "From a distinguished collection of Civil War memorabilia.",
+        "authentication": "Includes a certificate of authenticity and appraisal from a recognized military collectibles expert."
+      },
+      "auction_details": {
+        "start_date": "2024-08-01T10:00:00Z",
+        "end_date": "2024-08-07T18:00:00Z",
+        "starting_bid": {
+          "usd": 5000
+        },
+        "bid_increment": {
+          "usd": 300
+        },
+        "reserve_price": {
+          "usd": 6000
+        },
+        "location": {
+          "city": "Philadelphia",
+          "country": "USA"
+        },
+        "shipping_details": {
+          "domestic_shipping_cost": 30,
+          "international_shipping_cost": "At buyer’s cost",
+          "insurance_required": true
+        },
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping.",
+        "auction_status": "closed"
+      },
+      "is_active": false,
+      "created_at": "2024-07-05T08:00:00-04:00",
+      "updated_at": "2024-07-15T12:00:00-04:00"
+    }
+  ]
+}

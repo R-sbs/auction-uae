@@ -1,0 +1,424 @@
+[
+    {
+        "item_id": "001a",
+        "item_name": "Vintage 1965 Fender Stratocaster Guitar",
+        "item_short_description": "This vintage 1965 Fender Stratocaster is in excellent condition with original parts. It has a sunburst finish and a rosewood fretboard. It comes with the original hard case and documentation.",
+        "item_long_description": "<p>This fully restored vintage record player from the 1960s is a captivating piece of audio history. Featuring a beautifully crafted wooden cabinet and an original turntable mechanism, it embodies the classic design and sound quality of its era. The record player comes with a selection of classic vinyl records, making it both a functional and collectible item for enthusiasts and retro audio lovers.</p>\n\n\n<p><strong>Condition:</strong></p>\n<p>The record player has been meticulously restored to excellent working condition. The wooden cabinet has been carefully refurbished, and the original turntable mechanism has been serviced to ensure reliable performance. The included vinyl records are in good condition and complement the record player perfectly.</p>\n\n\n<ul className='mt-4'>\n    <li><strong>Cabinet:</strong> Wooden cabinet showcasing a classic 1960s design.</li>\n    <li><strong>Mechanism:</strong> Original turntable mechanism, restored for optimal performance.</li>\n    <li><strong>Records:</strong> Includes a selection of classic vinyl records to get you started.</li>\n</ul>\n\n<p><strong>Provenance:</strong></p>\n<p>Restored by a professional vintage electronics technician, ensuring meticulous workmanship and authenticity.</p>\n\n<p><strong>Authentication:</strong></p>\n<p>Includes a restoration certification that verifies the quality and authenticity of the restoration work.</p>"
+        ,
+        "category": "Musical Instruments",
+        "condition": "Used – Excellent Condition",
+        "estimated_value": {
+            "usd": 1500,
+            "sar": 5625
+        },
+        "is_buy_now_available": true,
+        "buy_now_price": {
+            "usd": 2000,
+            "sar": 7500
+        },
+        "item_details": {
+            "dimensions": {
+                "weight": "8 lbs",
+                "dimensions": "40 x 15 x 5 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/1010518/pexels-photo-1010518.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/459797/pexels-photo-459797.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/839237/pexels-photo-839237.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Previously owned by rock legend Jimi Hendrix and played on his 1968 tour.",
+            "authentication": "Includes certificate of authenticity from Fender.he guitar includes a certificate of authenticity from Fender, confirming its originality and provenance. This documentation ensures the guitar’s place in Fender’s storied history and verifies its condition and authenticity.\n\n**Accessories:**/nThe auction includes the original Fender hard shell case, which is in good condition with some minor wear. The case provides protection and adds to the overall value of the guitar. Any additional items that came with the guitar, such as the tremolo arm and original case candy (if available), are included in this auction."
+        },
+        "auction_details": null
+    },
+    {
+        "item_id": "002",
+        "item_name": "Antique 18th Century Pocket Watch",
+        "item_short_description": "This rare 18th-century pocket watch is in working condition with a beautifully engraved silver case. It features a classic Roman numeral dial and original movement.",
+        "item_long_description": "This rare 18th-century pocket watch is a stunning example of historical craftsmanship. The watch features a beautifully engraved silver case, which showcases intricate designs typical of its era. The Roman numeral dial adds a classic touch, while the original movement ensures it remains in working condition. This timepiece not only serves as a functional accessory but also as a significant collector's item, reflecting the elegance and precision of 18th-century watchmaking. Condition: The pocket watch is in excellent working condition, with all components functioning as intended. The silver case shows some minor signs of wear consistent with its age, but it remains in overall very good condition. The original movement has been maintained and is operational. Features: Case: Silver case with intricate engravings, showcasing the craftsmanship of the 18th century.Dial: Classic Roman numeral dial, providing a timeless aesthetic.Movement: Original movement, ensuring authenticity and operational integrity.Provenance:From a private collection, this pocket watch was previously owned by a notable watchmaker, adding a layer of historical significance to its already impressive pedigree.",
+        
+        "category": "Antiques",
+        "condition": "Antique – Working Condition",
+        "estimated_value": {
+            "usd": 2500,
+            "sar": 9375
+        },
+        "is_buy_now_available": false,
+        "buy_now_price": null,
+        "item_details": {
+            "dimensions": {
+                "weight": "1 lb",
+                "dimensions": "2 x 2 x 0.5 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/416339/pexels-photo-416339.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/295885/pexels-photo-295885.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "From a private collection, previously owned by a notable watchmaker.",
+            "authentication": "The watch includes an appraisal certificate from a certified watchmaker, verifying its authenticity and historical value."
+        },
+        "auction_details": {
+            "auction_start_date": "2024-08-16T12:00:00-04:00",
+            "auction_end_date": "2024-08-23T12:00:00-04:00",
+            "starting_bid": {
+                "usd": 1000,
+                "sar": 3750
+            },
+            "bid_increment": {
+                "usd": 50,
+                "sar": 187.5
+            },
+            "reserve_price": {
+                "usd": 2500,
+                "sar": 9375
+            },
+            "location": "Philadelphia, PA",
+            "shipping_details": "Shipping is $30 within the U.S. International shipping at buyer’s cost.",
+            "payment_methods": [
+                "Credit Card",
+                "PayPal"
+            ],
+            "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping."
+        }
+    },
+    {
+        "item_id": "003",
+        "item_name": "Signed First Edition Harry Potter Book",
+        "item_short_description": "A first edition of 'Harry Potter and the Philosopher's Stone', signed by J.K. Rowling. The book is in near-mint condition with original dust jacket.",
+        "item_long_description": "This first edition of 'Harry Potter and the Philosopher's Stone', signed by J.K. Rowling, is a rare and highly sought-after collector's item. The book is in near-mint condition and includes its original dust jacket, which is well-preserved and adds to the book's overall value. Signed during the book launch event in 1997, this copy stands out not only for its rarity but also for its direct connection to J.K. Rowling's celebrated literary debut.\n\n**Condition:**\nThe book is in near-mint condition, with the original dust jacket intact and in excellent shape. The signature is clear and prominently displayed on the title page, making this edition a prized piece for any Harry Potter fan or book collector.\n\n**Features:**\n- **Edition:** First edition of 'Harry Potter and the Philosopher's Stone'.\n- **Signature:** Signed by J.K. Rowling during the 1997 book launch event.\n- **Condition:** Near-mint with original dust jacket.\n\n**Provenance:**\nSigned during the book launch event in 1997, this book holds significant historical and cultural value as a key piece of Harry Potter memorabilia.",
+        "category": "Books",
+        "condition": "Used – Near-Mint Condition",
+        "estimated_value": {
+            "usd": 5000,
+            "sar": 18750
+        },
+        "is_buy_now_available": true,
+        "buy_now_price": {
+            "usd": 8000,
+            "sar": 30000
+        },
+        "item_details": {
+            "dimensions": {
+                "weight": "0.5 lbs",
+                "dimensions": "8 x 5.5 x 1 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/1005012/pexels-photo-1005012.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/4865536/pexels-photo-4865536.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Signed during the book launch event in 1997.",
+            "authentication": "Includes a certificate of authenticity from J.K. Rowling's official fan club, confirming the signature's authenticity and the book's status as a genuine first edition."
+        },
+        "auction_details": null
+    },
+    {
+        "item_id": "004",
+        "item_name": "Modern Art Painting by Jane Doe",
+        "item_short_description": "An abstract painting by contemporary artist Jane Doe, featuring vibrant colors and dynamic brushstrokes. Framed and ready to hang.",
+        "item_long_description": "This modern art painting by contemporary artist Jane Doe is an exquisite example of abstract expressionism. Featuring vibrant colors and dynamic brushstrokes, the piece captures a sense of movement and energy that is characteristic of Doe's work. The painting is framed and ready to hang, making it a striking addition to any modern art collection.\n\n**Condition:**\nThe painting is in new condition, with the artist’s signature visible on the lower corner. The frame is in excellent shape, providing a polished presentation that complements the artwork.\n\n**Features:**\n- **Artist:** Jane Doe, known for her innovative approach to abstract art.\n- **Style:** Abstract with vibrant colors and dynamic brushstrokes.\n- **Framing:** Professionally framed and ready to hang.\n\n**Provenance:**\nPurchased directly from the artist’s studio, ensuring the authenticity and direct connection to Jane Doe’s creative process.",
+        "category": "Art",
+        "condition": "New",
+        "estimated_value": {
+            "usd": 3500,
+            "sar": 13125
+        },
+        "is_buy_now_available": false,
+        "buy_now_price": null,
+        "item_details": {
+            "dimensions": {
+                "weight": "4 lbs",
+                "dimensions": "24 x 36 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/3651579/pexels-photo-3651579.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/3824262/pexels-photo-3824262.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Purchased directly from the artist’s studio.",
+            "authentication": "Includes a certificate of authenticity from the artist, confirming the painting's provenance and originality."
+        },
+        "auction_details": {
+            "auction_start_date": "2024-08-18T15:00:00-04:00",
+            "auction_end_date": "2024-08-25T15:00:00-04:00",
+            "starting_bid": {
+                "usd": 1500,
+                "sar": 5625
+            },
+            "bid_increment": {
+                "usd": 75,
+                "sar": 281.25
+            },
+            "reserve_price": {
+                "usd": 3500,
+                "sar": 13125
+            },
+            "location": "San Francisco, CA",
+            "shipping_details": "Free shipping within the U.S. International shipping available at buyer’s expense.",
+            "payment_methods": [
+                "Credit Card",
+                "PayPal",
+                "Bank Transfer"
+            ],
+            "terms_and_conditions": "Buyer responsible for any customs duties or taxes."
+        }
+    },
+    {
+        "item_id": "005",
+        "item_name": "Classic 1960s Vintage Record Player",
+        "item_short_description": "A fully restored vintage record player from the 1960s, featuring a wooden cabinet and original turntable mechanism. Includes a selection of classic vinyl records.",
+        "item_long_description": "This fully restored vintage record player from the 1960s is a nostalgic piece of audio history. Featuring a beautifully crafted wooden cabinet and an original turntable mechanism, it embodies the classic design and sound quality of its era. The record player comes with a selection of classic vinyl records, making it a functional and collectible item for enthusiasts and retro audio lovers.\n\n**Condition:**\nThe record player has been professionally restored to excellent working condition. The wooden cabinet has been refurbished, and the original turntable mechanism has been serviced to ensure reliable performance. The included vinyl records are in good condition and complement the record player perfectly.\n\n**Features:**\n- **Cabinet:** Wooden cabinet with a classic 1960s design.\n- **Mechanism:** Original turntable mechanism, restored for optimal performance.\n- **Records:** Includes a selection of classic vinyl records to get you started.\n\n**Provenance:**\nRestored by a professional vintage electronics technician, ensuring high-quality workmanship and authenticity.",
+        "category": "Electronics",
+        "condition": "Refurbished – Excellent Working Condition",
+        "estimated_value": {
+            "usd": 700,
+            "sar": 2625
+        },
+        "is_buy_now_available": false,
+        "buy_now_price": null,
+        "item_details": {
+            "dimensions": {
+                "weight": "15 lbs",
+                "dimensions": "18 x 14 x 8 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/1389429/pexels-photo-1389429.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/5699509/pexels-photo-5699509.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Restored by a professional vintage electronics technician.",
+            "authentication": "Includes a restoration certification, verifying the quality and authenticity of the restoration work."
+        },
+        "auction_details": {
+            "auction_start_date": "2024-08-19T08:00:00-04:00",
+            "auction_end_date": "2024-08-26T08:00:00-04:00",
+            "starting_bid": {
+                "usd": 300,
+                "sar": 1125
+            },
+            "bid_increment": {
+                "usd": 15,
+                "sar": 56.25
+            },
+            "reserve_price": {
+                "usd": 700,
+                "sar": 2625
+            },
+            "location": "Chicago, IL",
+            "shipping_details": "Shipping within the U.S. is $40. International shipping available at buyer’s expense.",
+            "payment_methods": [
+                "Credit Card",
+                "PayPal",
+                "Bank Transfer"
+            ],
+            "terms_and_conditions": "No returns accepted. Item sold as-is."
+        }
+    },
+{
+        "item_id": "006",
+        "item_name": "1940s Art Deco Bronze Sculpture",
+        "item_short_description": "A stunning Art Deco bronze sculpture from the 1940s featuring elegant lines and geometric forms. This piece embodies the sophistication and style of the Art Deco era.",
+        "item_long_description": "<p>This exquisite bronze sculpture captures the essence of the Art Deco movement with its streamlined design and attention to detail. Standing at 18 inches tall, the sculpture portrays a graceful dancer in a dynamic pose, showcasing the artist's skill in both form and material. The rich patina on the bronze adds depth and character to the piece.</p>\n\n<p><strong>Condition:</strong></p>\n<p>In excellent condition with minimal signs of wear. The bronze has a beautiful patina and the base is stable and secure.</p>\n\n<ul class='mt-4'>\n    <li><strong>Artist:</strong> Unnamed, but likely a prominent Art Deco sculptor.</li>\n    <li><strong>Dimensions:</strong> 18 x 7 x 7 inches</li>\n    <li><strong>Base:</strong> Original marble base included.</li>\n</ul>\n\n<p><strong>Provenance:</strong></p>\n<p>Acquired from a private collection in Paris.</p>\n\n<p><strong>Authentication:</strong></p>\n<p>Includes a certificate of authenticity from a reputable art dealer.</p>",
+        "category": "Art",
+        "condition": "Used – Excellent Condition",
+        "estimated_value": {
+            "usd": 3000,
+            "sar": 11250
+        },
+        "is_buy_now_available": true,
+        "buy_now_price": {
+            "usd": 3500,
+            "sar": 13125
+        },
+        "item_details": {
+            "dimensions": {
+                "weight": "12 lbs",
+                "dimensions": "18 x 7 x 7 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/25956228/pexels-photo-25956228/free-photo-of-bronze-sculpture-on-the-riverside-promenade-with-a-sailing-ship-in-the-background.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/1493659/pexels-photo-1493659.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Acquired from a private collection in Paris.",
+            "authentication": "Includes a certificate of authenticity from a reputable art dealer."
+        },
+        "auction_details": null
+    },
+    {
+        "item_id": "007",
+        "item_name": "19th Century Antique Oak Grandfather Clock",
+        "item_short_description": "A beautiful 19th-century oak grandfather clock with intricate carvings and a classic pendulum mechanism. In working order with original key.",
+        "item_long_description": "<p>This antique oak grandfather clock is a true classic, showcasing the craftsmanship of the 19th century. The clock features detailed carvings on the oak case and a traditional pendulum mechanism. It stands over 6 feet tall and has a striking presence in any room.</p>\n\n<p><strong>Condition:</strong></p>\n<p>Restored to excellent working condition. The oak case is in very good shape with only minor wear, and the clock keeps accurate time.</p>\n\n<ul class='mt-4'>\n    <li><strong>Mechanism:</strong> Original pendulum mechanism, serviced and functioning.</li>\n    <li><strong>Dimensions:</strong> 75 x 20 x 12 inches</li>\n    <li><strong>Key:</strong> Includes original clock key.</li>\n</ul>\n\n<p><strong>Provenance:</strong></p>\n<p>Previously owned by a prominent Victorian-era family.</p>\n\n<p><strong>Authentication:</strong></p>\n<p>Includes a certificate of restoration from a certified clockmaker.</p>",
+        "category": "Antiques",
+        "condition": "Used – Excellent Condition",
+        "estimated_value": {
+            "usd": 2500,
+            "sar": 9375
+        },
+        "is_buy_now_available": true,
+        "buy_now_price": {
+            "usd": 3000,
+            "sar": 11250
+        },
+        "item_details": {
+            "dimensions": {
+                "weight": "60 lbs",
+                "dimensions": "75 x 20 x 12 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/552774/pexels-photo-552774.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/161870/clock-old-antique-watch-history-161870.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Previously owned by a prominent Victorian-era family.",
+            "authentication": "Includes a certificate of restoration from a certified clockmaker."
+        },
+        "auction_details": null
+    },
+    {
+        "item_id": "008",
+        "item_name": "Rare 1970s Rolex Submariner Watch",
+        "item_short_description": "A highly sought-after 1970s Rolex Submariner in original condition with vintage patina. Includes original box and papers.",
+        "item_long_description": "<p>This rare 1970s Rolex Submariner is a prized collector’s item, featuring a stainless steel case and a distinctive black bezel. The watch has been well-preserved with its original patina, making it a valuable addition for any watch enthusiast.</p>\n\n<p><strong>Condition:</strong></p>\n<p>In original condition with some vintage patina on the bezel and dial. The watch is fully functional and includes the original box and papers.</p>\n\n<ul class='mt-4'>\n    <li><strong>Movement:</strong> Automatic Rolex Caliber 1570.</li>\n    <li><strong>Dimensions:</strong> 40mm case diameter.</li>\n    <li><strong>Accessories:</strong> Original box and papers included.</li>\n</ul>\n\n<p><strong>Provenance:</strong></p>\n<p>Acquired from a private collector who has owned it since the 1980s.</p>\n\n<p><strong>Authentication:</strong></p>\n<p>Includes a certificate of authenticity from a renowned watch appraiser.</p>",
+        "category": "Watches",
+        "condition": "Used – Good Condition",
+        "estimated_value": {
+            "usd": 8000,
+            "sar": 30000
+        },
+        "is_buy_now_available": true,
+        "buy_now_price": {
+            "usd": 9500,
+            "sar": 35625
+        },
+        "item_details": {
+            "dimensions": {
+                "weight": "1 lbs",
+                "dimensions": "2 x 2 x 2 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/47856/rolex-wrist-watch-clock-gmt-47856.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/10414755/pexels-photo-10414755.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Acquired from a private collector who has owned it since the 1980s.",
+            "authentication": "Includes a certificate of authenticity from a renowned watch appraiser."
+        },
+        "auction_details": null
+    },
+    {
+        "item_id": "009",
+        "item_name": "Mid-Century Modern Eames Lounge Chair",
+        "item_short_description": "An authentic Mid-Century Modern Eames Lounge Chair and Ottoman, designed by Charles and Ray Eames. Original rosewood veneer and leather upholstery.",
+        "item_long_description": "<p>This iconic Mid-Century Modern Eames Lounge Chair, designed by Charles and Ray Eames, represents a pinnacle of design excellence. The chair features original rosewood veneer and high-quality leather upholstery. Its ergonomic design provides both comfort and style, making it a highly coveted piece in modern interior design.</p>\n\n<p><strong>Condition:</strong></p>\n<p>In excellent condition with minimal signs of wear. The rosewood veneer is pristine, and the leather upholstery is clean and supple.</p>\n\n<ul class='mt-4'>\n    <li><strong>Designers:</strong> Charles and Ray Eames.</li>\n    <li><strong>Dimensions:</strong> Chair – 32 x 32 x 32 inches, Ottoman – 26 x 21 x 17 inches.</li>\n    <li><strong>Material:</strong> Rosewood veneer and leather.</li>\n</ul>\n\n<p><strong>Provenance:</strong></p>\n<p>Acquired from a private collector who purchased it directly from Herman Miller.</p>\n\n<p><strong>Authentication:</strong></p>\n<p>Includes a certificate of authenticity from Herman Miller and original purchase receipt.</p>",
+        "category": "Furniture",
+        "condition": "Used – Excellent Condition",
+        "estimated_value": {
+            "usd": 6000,
+            "sar": 22500
+        },
+        "is_buy_now_available": true,
+        "buy_now_price": {
+            "usd": 7500,
+            "sar": 28125
+        },
+        "item_details": {
+            "dimensions": {
+                "weight": "60 lbs",
+                "dimensions": "32 x 32 x 32 inches (Chair), 26 x 21 x 17 inches (Ottoman)"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/6775268/pexels-photo-6775268.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/6775272/pexels-photo-6775272.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Acquired from a private collector who purchased it directly from Herman Miller.",
+            "authentication": "Includes a certificate of authenticity from Herman Miller and original purchase receipt."
+        },
+        "auction_details": null
+    },
+    {
+        "item_id": "010",
+        "item_name": "Limited Edition 1995 Nike Air Jordans",
+        "item_short_description": "A rare pair of limited edition 1995 Nike Air Jordans in pristine condition. Comes with original box and tags.",
+        "item_long_description": "<p>This limited edition 1995 Nike Air Jordans are a must-have for any sneaker collector. The shoes are in pristine condition, featuring the original design and materials. The pair comes with its original box and tags, making it a complete collectible set.</p>\n\n<p><strong>Condition:</strong></p>\n<p>In mint condition, with no visible signs of wear. The original box and tags are included.</p>\n\n<ul class='mt-4'>\n    <li><strong>Model:</strong> Nike Air Jordans, 1995 Edition.</li>\n    <li><strong>Size:</strong> Men's size 10.</li>\n    <li><strong>Accessories:</strong> Original box and tags included.</li>\n</ul>\n\n<p><strong>Provenance:</strong></p>\n<p>Acquired from a private collector who purchased it upon release.</p>\n\n<p><strong>Authentication:</strong></p>\n<p>Includes a certificate of authenticity from a well-known sneaker authentication service.</p>",
+        "category": "Footwear",
+        "condition": "Used – Mint Condition",
+        "estimated_value": {
+            "usd": 3500,
+            "sar": 13125
+        },
+        "is_buy_now_available": true,
+        "buy_now_price": {
+            "usd": 4000,
+            "sar": 15000
+        },
+        "item_details": {
+            "dimensions": {
+                "weight": "3 lbs",
+                "dimensions": "12 x 10 x 5 inches (Box)"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/4215840/pexels-photo-4215840.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/7543639/pexels-photo-7543639.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Acquired from a private collector who purchased it upon release.",
+            "authentication": "Includes a certificate of authenticity from a well-known sneaker authentication service."
+        },
+        "auction_details": null
+    },
+    {
+        "item_id": "011",
+        "item_name": "Authentic 1955 Gibson Les Paul Standard Guitar",
+        "item_short_description": "An authentic 1955 Gibson Les Paul Standard, featuring original sunburst finish and P90 pickups. Comes with original hard case.",
+        "item_long_description": "<p>This 1955 Gibson Les Paul Standard is a highly sought-after vintage guitar, known for its iconic sunburst finish and distinctive P90 pickups. The guitar is in excellent playing condition and includes its original hard case, making it a prized addition to any collection.</p>\n\n<p><strong>Condition:</strong></p>\n<p>In excellent condition with some minor wear on the finish. The P90 pickups are fully functional, and the guitar plays beautifully.</p>\n\n<ul class='mt-4'>\n    <li><strong>Pickups:</strong> Original P90 pickups.</li>\n    <li><strong>Dimensions:</strong> 39 x 12 x 2 inches</li>\n    <li><strong>Case:</strong> Includes original hard case with some wear.</li>\n</ul>\n\n<p><strong>Provenance:</strong></p>\n<p>Previously owned by a renowned session musician.</p>\n\n<p><strong>Authentication:</strong></p>\n<p>Includes a certificate of authenticity from Gibson.</p>",
+        "category": "Musical Instruments",
+        "condition": "Used – Excellent Condition",
+        "estimated_value": {
+            "usd": 12000,
+            "sar": 45000
+        },
+        "is_buy_now_available": true,
+        "buy_now_price": {
+            "usd": 15000,
+            "sar": 56250
+        },
+        "item_details": {
+            "dimensions": {
+                "weight": "8 lbs",
+                "dimensions": "39 x 12 x 2 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/3428498/pexels-photo-3428498.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/26986595/pexels-photo-26986595/free-photo-of-young-man-playing-an-acoustic-guitar.png?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Previously owned by a renowned session musician.",
+            "authentication": "Includes a certificate of authenticity from Gibson."
+        },
+        "auction_details": null
+    },
+    {
+        "item_id": "012",
+        "item_name": "1960s Vintage Rolex Daytona Watch",
+        "item_short_description": "A vintage 1960s Rolex Daytona with original white dial and chronograph features. Includes original box and paperwork.",
+        "item_long_description": "<p>This vintage 1960s Rolex Daytona is a classic timepiece with a distinctive white dial and chronograph functions. The watch is in excellent condition, showcasing the fine craftsmanship of Rolex from this era. It comes with the original box and paperwork, adding to its collectible value.</p>\n\n<p><strong>Condition:</strong></p>\n<p>In very good condition with some minor signs of age. The chronograph functions are fully operational, and the watch includes the original box and paperwork.</p>\n\n<ul class='mt-4'>\n    <li><strong>Model:</strong> Rolex Daytona, 1960s Edition.</li>\n    <li><strong>Dimensions:</strong> 38mm case diameter.</li>\n    <li><strong>Accessories:</strong> Original box and paperwork included.</li>\n</ul>\n\n<p><strong>Provenance:</strong></p>\n<p>Acquired from a well-known vintage watch dealer.</p>\n\n<p><strong>Authentication:</strong></p>\n<p>Includes a certificate of authenticity from a renowned watch appraiser.</p>",
+        "category": "Watches",
+        "condition": "Used – Very Good Condition",
+        "estimated_value": {
+            "usd": 10000,
+            "sar": 37500
+        },
+        "is_buy_now_available": true,
+        "buy_now_price": {
+            "usd": 12000,
+            "sar": 45000
+        },
+        "item_details": {
+            "dimensions": {
+                "weight": "1 lbs",
+                "dimensions": "2 x 2 x 2 inches"
+            },
+            "photos": [
+                "https://images.pexels.com/photos/3809175/pexels-photo-3809175.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                "https://images.pexels.com/photos/14705375/pexels-photo-14705375.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            ],
+            "provenance": "Acquired from a well-known vintage watch dealer.",
+            "authentication": "Includes a certificate of authenticity from a renowned watch appraiser."
+        },
+        "auction_details": null
+    }
+]

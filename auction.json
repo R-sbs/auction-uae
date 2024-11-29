@@ -1,0 +1,192 @@
+{
+  "auction_id": "12345",
+  "title": "Vintage Musical Instruments Auction",
+  "description": "An exclusive auction featuring rare and collectible musical instruments.",
+  "start_date": "2024-09-01T10:00:00Z",
+  "end_date": "2024-09-07T18:00:00Z",
+  "location": "",
+  "currency": ["USD", "SAR"],
+  "items": [
+    {
+      "item_id": "12345a",
+      "item_name": "Antique 18th Century Pocket Watch",
+      "item_short_description": "This rare 18th-century pocket watch is in working condition with a beautifully engraved silver case. It features a classic Roman numeral dial and original movement.",
+      "item_long_description": "This rare 18th-century pocket watch is a stunning example of historical craftsmanship. The watch features a beautifully engraved silver case, which showcases intricate designs typical of its era. The Roman numeral dial adds a classic touch, while the original movement ensures it remains in working condition. This timepiece not only serves as a functional accessory but also as a significant collector's item, reflecting the elegance and precision of 18th-century watchmaking. Condition: The pocket watch is in excellent working condition, with all components functioning as intended. The silver case shows some minor signs of wear consistent with its age, but it remains in overall very good condition. The original movement has been maintained and is operational. Features: Case: Silver case with intricate engravings, showcasing the craftsmanship of the 18th century.Dial: Classic Roman numeral dial, providing a timeless aesthetic.Movement: Original movement, ensuring authenticity and operational integrity.Provenance:From a private collection, this pocket watch was previously owned by a notable watchmaker, adding a layer of historical significance to its already impressive pedigree.",
+
+      "category": "Antiques",
+      "condition": "Antique – Working Condition",
+      "estimated_value": {
+        "usd": 2500,
+        "sar": 9375
+      },
+      "is_buy_now_available": false,
+      "buy_now_price": null,
+      "item_details": {
+        "dimensions": {
+          "weight": "1 lb",
+          "dimensions": "2 x 2 x 0.5 inches"
+        },
+        "photos": [
+          "https://images.pexels.com/photos/416339/pexels-photo-416339.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "https://images.pexels.com/photos/295885/pexels-photo-295885.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        ],
+        "provenance": "From a private collection, previously owned by a notable watchmaker.",
+        "authentication": "The watch includes an appraisal certificate from a certified watchmaker, verifying its authenticity and historical value."
+      },
+      "auction_details": {
+        "auction_start_date": "2024-08-16T12:00:00-04:00",
+        "auction_end_date": "2024-08-23T12:00:00-04:00",
+        "starting_bid": {
+          "usd": 1000,
+          "sar": 3750
+        },
+        "bid_increment": {
+          "usd": 50,
+          "sar": 187.5
+        },
+        "reserve_price": {
+          "usd": 2500,
+          "sar": 9375
+        },
+        "bids": [
+          {
+            "bid_id": "b1",
+            "bidder_id": "user123",
+            "bid_amount": {
+              "usd": 1550
+            },
+            "bid_time": "2024-09-02T14:00:00Z"
+          }
+        ],
+        "location": "Philadelphia, PA",
+        "shipping_details": "Shipping is $30 within the U.S. International shipping at buyer’s cost.",
+        "payment_methods": ["Credit Card", "PayPal"],
+        "terms_and_conditions": "No refunds. Buyer is responsible for insurance during shipping."
+      }
+    },
+    {
+      "item_id": "12345b",
+      "item_name": "Modern Art Painting by Jane Doe",
+      "item_short_description": "An abstract painting by contemporary artist Jane Doe, featuring vibrant colors and dynamic brushstrokes. Framed and ready to hang.",
+      "item_long_description": "This modern art painting by contemporary artist Jane Doe is an exquisite example of abstract expressionism. Featuring vibrant colors and dynamic brushstrokes, the piece captures a sense of movement and energy that is characteristic of Doe's work. The painting is framed and ready to hang, making it a striking addition to any modern art collection.\n\n**Condition:**\nThe painting is in new condition, with the artist’s signature visible on the lower corner. The frame is in excellent shape, providing a polished presentation that complements the artwork.\n\n**Features:**\n- **Artist:** Jane Doe, known for her innovative approach to abstract art.\n- **Style:** Abstract with vibrant colors and dynamic brushstrokes.\n- **Framing:** Professionally framed and ready to hang.\n\n**Provenance:**\nPurchased directly from the artist’s studio, ensuring the authenticity and direct connection to Jane Doe’s creative process.",
+      "category": "Art",
+      "condition": "New",
+      "estimated_value": {
+        "usd": 3500,
+        "sar": 13125
+      },
+      "is_buy_now_available": false,
+      "buy_now_price": null,
+      "item_details": {
+        "dimensions": {
+          "weight": "4 lbs",
+          "dimensions": "24 x 36 inches"
+        },
+        "photos": [
+          "https://images.pexels.com/photos/3651579/pexels-photo-3651579.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "https://images.pexels.com/photos/3824262/pexels-photo-3824262.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        ],
+        "provenance": "Purchased directly from the artist’s studio.",
+        "authentication": "Includes a certificate of authenticity from the artist, confirming the painting's provenance and originality."
+      },
+      "auction_details": {
+        "auction_start_date": "2024-08-18T15:00:00-04:00",
+        "auction_end_date": "2024-08-25T15:00:00-04:00",
+        "starting_bid": {
+          "usd": 1500,
+          "sar": 5625
+        },
+        "bid_increment": {
+          "usd": 75,
+          "sar": 281.25
+        },
+        "reserve_price": {
+          "usd": 3500,
+          "sar": 13125
+        },
+        "bids": [
+          {
+            "bid_id": "b2",
+            "bidder_id": "user456",
+            "bid_amount": {
+              "usd": 1100
+            },
+            "bid_time": "2024-09-03T09:00:00Z"
+          }
+        ],
+        "location": "San Francisco, CA",
+        "shipping_details": "Free shipping within the U.S. International shipping available at buyer’s expense.",
+        "payment_methods": ["Credit Card", "PayPal", "Bank Transfer"],
+        "terms_and_conditions": "Buyer responsible for any customs duties or taxes."
+      }
+    },
+    {
+      "item_id": "12345c",
+      "item_name": "Classic 1960s Vintage Record Player",
+      "item_short_description": "A fully restored vintage record player from the 1960s, featuring a wooden cabinet and original turntable mechanism. Includes a selection of classic vinyl records.",
+      "item_long_description": "This fully restored vintage record player from the 1960s is a nostalgic piece of audio history. Featuring a beautifully crafted wooden cabinet and an original turntable mechanism, it embodies the classic design and sound quality of its era. The record player comes with a selection of classic vinyl records, making it a functional and collectible item for enthusiasts and retro audio lovers.\n\n**Condition:**\nThe record player has been professionally restored to excellent working condition. The wooden cabinet has been refurbished, and the original turntable mechanism has been serviced to ensure reliable performance. The included vinyl records are in good condition and complement the record player perfectly.\n\n**Features:**\n- **Cabinet:** Wooden cabinet with a classic 1960s design.\n- **Mechanism:** Original turntable mechanism, restored for optimal performance.\n- **Records:** Includes a selection of classic vinyl records to get you started.\n\n**Provenance:**\nRestored by a professional vintage electronics technician, ensuring high-quality workmanship and authenticity.",
+      "category": "Electronics",
+      "condition": "Refurbished – Excellent Working Condition",
+      "estimated_value": {
+        "usd": 700,
+        "sar": 2625
+      },
+      "is_buy_now_available": false,
+      "buy_now_price": null,
+      "item_details": {
+        "dimensions": {
+          "weight": "15 lbs",
+          "dimensions": "18 x 14 x 8 inches"
+        },
+        "photos": [
+          "https://images.pexels.com/photos/1389429/pexels-photo-1389429.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "https://images.pexels.com/photos/5699509/pexels-photo-5699509.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        ],
+        "provenance": "Restored by a professional vintage electronics technician.",
+        "authentication": "Includes a restoration certification, verifying the quality and authenticity of the restoration work."
+      },
+      "auction_details": {
+        "auction_start_date": "2024-08-19T08:00:00-04:00",
+        "auction_end_date": "2024-08-26T08:00:00-04:00",
+        "starting_bid": {
+          "usd": 300,
+          "sar": 1125
+        },
+        "bid_increment": {
+          "usd": 15,
+          "sar": 56.25
+        },
+        "reserve_price": {
+          "usd": 700,
+          "sar": 2625
+        },
+        "bids": [
+          {
+            "bid_id": "b2",
+            "bidder_id": "user456",
+            "bid_amount": {
+              "usd": 1100
+            },
+            "bid_time": "2024-09-03T09:00:00Z"
+          }
+        ],
+        "location": "Chicago, IL",
+        "shipping_details": "Shipping within the U.S. is $40. International shipping available at buyer’s expense.",
+        "payment_methods": ["Credit Card", "PayPal", "Bank Transfer"],
+        "terms_and_conditions": "No returns accepted. Item sold as-is."
+      }
+    }
+  ],
+  "metadata": {
+    "total_items": 3,
+    "highest_bid": {
+      "usd": 1100,
+      "sar": 4125
+    },
+    "total_bids": 20,
+    "total_revenue": {
+      "usd": 2650,
+      "sar": 9938
+    }
+  }
+}

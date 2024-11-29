@@ -43,7 +43,7 @@ function classNames(...classes: string[]) {
 }
 
 export default function NavBar() {
-  const [userLogged, setUserLogged] = useState(true);
+  const [userLogged, setUserLogged] = useState(false);
 
   const pathname = usePathname();
   const locale = usePathname()?.split("/")[1];
@@ -112,6 +112,8 @@ export default function NavBar() {
   const handleSubMenuItemClick = () => {
     setOpenMenu(null); // Close the menu when a submenu item is clicked
   };
+
+  setUserLogged(true);
 
   return (
     <Disclosure as="nav" className="bg-beige-100 w-full relative">

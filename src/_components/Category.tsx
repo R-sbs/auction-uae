@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-import logo from "@/images/file.png";
 import Link from "next/link";
 
 interface catProp {

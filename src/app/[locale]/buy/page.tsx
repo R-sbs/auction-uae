@@ -2,7 +2,7 @@ import React from "react";
 import { useTranslations } from "next-intl";
 
 
-const buyPage = () => {
+const BuyPage = () => {
     const t = useTranslations('buy');
   return (
     <main className="flex min-h-screen flex-col justify-between">
@@ -15,4 +15,4 @@ const buyPage = () => {
   );
 };
 
-export default buyPage;
+export default BuyPage;

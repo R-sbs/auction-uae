@@ -1,6 +1,5 @@
 import Link from "next/link";
 
-import Image from "next/image";
 import heroImage from "@/images/auction_hero.webp";
 import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/button";

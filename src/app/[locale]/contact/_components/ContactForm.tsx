@@ -24,7 +24,7 @@ const ContactForm = () => {
     handleSubmit,
     setError,
     reset,
-    formState: { errors, isSubmitting, isSubmitSuccessful, isDirty },
+    formState: { errors, isSubmitting, isSubmitSuccessful },
   } = useForm<FormFields>({
     defaultValues: {},
     resolver: zodResolver(schema),
@@ -34,9 +34,9 @@ const ContactForm = () => {
 
   
 
-  const onSubmit: SubmitHandler<FormFields> = async (data) => {
+  const onSubmit: SubmitHandler<FormFields> = async (data) => { 
     try {
-      await new Promise((resolve) => setTimeout(resolve, 2000));
+      console.log("Form submitted with data:", data); 
     } catch (error) {
       setError("root", {
         message: "Something went wrong, Please Submit Again",

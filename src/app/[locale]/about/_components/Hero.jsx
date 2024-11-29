@@ -3,7 +3,7 @@ import heroImage from "@/images/auction_hero.webp";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 
-export default function Hero({ title, sub, isHomePage }) {
+export default function Hero({ title, sub }) {
   return (
     <div className="bg-[#F9FAFB]">
       <div className="mx-auto max-w-7xl flex flex-col items-center lg:flex-row gap-20 lg:px-8">

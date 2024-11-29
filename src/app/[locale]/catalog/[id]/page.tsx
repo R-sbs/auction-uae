@@ -9,35 +9,8 @@ import AuctionItem from "./_components/AuctionItem";
 import Item from "@/types/types";
 import Spinner from "@/_components/Spinner";
 
-// const faqs = [
-//   {
-//     question: "What makes the 1965 Fender Stratocaster a vintage item?",
-//     answer:
-//       "The 1965 Fender Stratocaster is considered vintage due to its production year, which places it in the category of guitars that are over 50 years old. Fender Stratocasters from the mid-1960s are highly sought after by collectors and musicians for their unique tonal qualities and historical significance. Key vintage features of the 1965 model include its original pickups, neck profile, and the 'L' series serial number that marks its place in Fender's production history.",
-//   },
-//   {
-//     question:
-//       " Are there any notable modifications or repairs on this particular 1965 Stratocaster?",
-//     answer:
-//       "This auction item is described as being in its original condition with no major modifications. However, minor adjustments or wear consistent with its age may be present. We have provided detailed photographs and a description of any cosmetic wear, such as scratches or dings, and if any parts have been replaced or repaired, this information will be clearly disclosed in the auction listing. For potential buyers seeking more detailed information, we recommend reviewing the full condition report and reaching out to us with any specific questions.",
-//   },
-//   {
-//     question: "Does the auction include the original case and accessories?",
-//     answer:
-//       "Yes, the auction includes the original Fender case that came with the 1965 Stratocaster, which adds to the guitar's value and authenticity. Along with the case, any original accessories such as the tremolo arm, hangtags, and owner's manual, if available, will be included. The auction listing will specify the condition of these items and any additional documentation provided with the guitar.",
-//   },
-//   // More FAQs...
-// ];
 
-// function classNames(...classes: string[]) {
-//   return classes.filter(Boolean).join(" ");
-// }
-
-interface ItemComponentProps {
-  item: Item;
-}
-
-const ItemPage: FC<ItemComponentProps> = () => {
+const ItemPage: FC = () => {
   const { id } = useParams();
   const [relatedProducts, setRelatedProducts] = useState<Item[]>([]);
   const [item, setItem] = useState<Item | null>(null);

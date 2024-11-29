@@ -17,13 +17,7 @@
 import {
   CalendarDaysIcon,
   CreditCardIcon,
-  FaceFrownIcon,
-  FaceSmileIcon,
-  FireIcon,
-  HandThumbUpIcon,
-  HeartIcon,
   UserCircleIcon,
-  XMarkIcon as XMarkIconMini,
 } from "@heroicons/react/20/solid";
 
 // const navigation = [

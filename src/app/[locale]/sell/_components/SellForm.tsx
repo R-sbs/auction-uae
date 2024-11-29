@@ -10,8 +10,7 @@ const SellForm = () => {
   let isEditing = true;
 
   	const { register, handleSubmit,
-      setError,
-      reset, formState: { errors, isSubmitting, isSubmitSuccessful, isDirty  } } = useForm<sellPageValidationSchemaType>({
+      formState: { errors, isSubmitting, isSubmitSuccessful  } } = useForm<sellPageValidationSchemaType>({
         defaultValues: {},
 		resolver: zodResolver(sellSchema),
 	});

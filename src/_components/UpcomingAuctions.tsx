@@ -38,6 +38,10 @@ const UpcomingAuctions: React.FC = () => {
     fetchAuctionsData();
   }, []);
 
+  if(loading) {
+    return <div className="h-full w-full m-40 text-center">Loading...</div>
+  }
+
   return (
     <div className="bg-gray-50">
       <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">

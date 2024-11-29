@@ -131,7 +131,7 @@ function getNextLotId(currentId: string, siblingIds: string | any[]) {
 
 const LotPage = () => {
   const [lot, setLot] = useState<any>(null);
-  const [siblingIds, setSiblingIds] = useState<string[]>([]);
+  const [siblingIds, setSiblingIds] = useState<string[]>(["id", "id2"]);
   const [nextLotId, setNextLotId] = useState<string>();
   const { id } = useParams();
 
@@ -194,6 +194,13 @@ const LotPage = () => {
             <Link href={`/lots/${nextLotId}`} passHref>
               Next Lot &rarr;
             </Link>
+            <ul className="hidden">
+              {siblingIds.map((id) => (
+                <li key={id}>
+                  <Link href={`/lots/${id}`}>Lot {id}</Link>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
         {/* Product */}
@@ -212,9 +219,9 @@ const LotPage = () => {
                       <span className="sr-only">{image.name}</span>
                       <span className="absolute inset-0 overflow-hidden rounded-md">
                         <Image
-                        width={0}
-                        height={0}
-                        sizes="100vw"
+                          width={0}
+                          height={0}
+                          sizes="100vw"
                           alt=""
                           src={image.src}
                           className="h-full w-full object-cover object-center"
@@ -232,7 +239,10 @@ const LotPage = () => {
               <TabPanels className=" max-h-[90%]  w-full border-b-gray-200">
                 {product.images.map((image) => (
                   <TabPanel key={image.id}>
-                    <img
+                    <Image
+                    width={0}
+                    height={0}
+                    sizes="100vw"
                       alt={image.alt}
                       src={image.src}
                       className="h-full w-full object-cover object-center sm:rounded-lg "
@@ -304,7 +314,7 @@ const LotPage = () => {
 
           {/* Product info */}
           <div className="mt-10 px-4 sm:mt-16 sm:px-0 lg:mt-0 lg:sticky lg:top-7">
-          <BidForm lot={lot} /> 
+            <BidForm lot={lot} />
           </div>
         </div>
       </div>

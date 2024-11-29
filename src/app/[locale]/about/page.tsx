@@ -79,7 +79,7 @@ export default function aboutPage() {
         </div>
       </div>
     </div>
-    <Hero title={heroTexts.title} sub={heroTexts.sub} isHomePage={false} />
+    <Hero title={heroTexts.title} sub={heroTexts.sub}  />
     <DownloadAppCTC /> 
     </main>
    

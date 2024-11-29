@@ -6,7 +6,7 @@ import Link from "next/link";
 import { Auction } from "@/types/types";
 import Spinner from "@/_components/Spinner";
 
-const upcomingAuctionsPage = () => {
+const UpcomingAuctionsPage = () => {
   const [auctions, setAuctions] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
 
@@ -73,4 +73,4 @@ const upcomingAuctionsPage = () => {
   );
 };
 
-export default upcomingAuctionsPage;
+export default UpcomingAuctionsPage;

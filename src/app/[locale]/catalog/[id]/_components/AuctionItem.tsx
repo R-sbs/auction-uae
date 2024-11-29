@@ -1,5 +1,5 @@
 "use client";
-import React, { FC, Fragment, useState } from "react";
+import React, { FC, Fragment } from "react";
 import Item from "@/types/types";
 import Image from "next/image";
 import Link from "next/link";

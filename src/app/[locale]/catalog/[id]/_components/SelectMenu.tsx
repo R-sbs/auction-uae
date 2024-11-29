@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import { useState } from "react";
 import {
@@ -10,18 +10,17 @@ import {
 } from "@headlessui/react";
 import { CheckIcon, ChevronDownIcon } from "@heroicons/react/20/solid";
 
-type TSelectMenu = {
+// Define the TypeScript type for the select menu options
+type TSelectMenuOption = {
   title: string;
   description: string;
   current: boolean;
 };
 
-interface SelectMenuProps {
-  selectedOption: (title: string) => void;
-}
 
-export default function SelectMenu({ selectedOption }: SelectMenuProps) {
-  const [listingsOptions, setListingsOptions] = useState([
+export default function SelectMenu({ selectedOption }: any) {
+  // Define the list of options for the select menu
+  const listingsOptions: TSelectMenuOption[] = [
     {
       title: "All Items",
       description: "View all available items that you can buy or bid on",
@@ -34,16 +33,18 @@ export default function SelectMenu({ selectedOption }: SelectMenuProps) {
     },
     {
       title: "Auction Only",
-      description:
-        "Show items that are available only for bidding in auctions.",
+      description: "Show items that are available only for bidding in auctions.",
       current: false,
     },
-  ]);
-  const [selected, setSelected] = useState(listingsOptions[0]);
+  ];
 
-  const handleChange = (e: TSelectMenu): void => {
-    setSelected(e);
-    selectedOption(e.title);
+  // State to track the currently selected option
+  const [selected, setSelected] = useState<TSelectMenuOption>(listingsOptions[0]);
+
+  // Handle change in selection
+  const handleChange = (option: TSelectMenuOption) => {
+    setSelected(option);
+    selectedOption(option.title); // Pass the title to the parent component
   };
 
   return (
@@ -53,6 +54,7 @@ export default function SelectMenu({ selectedOption }: SelectMenuProps) {
         <div className="inline-flex divide-x divide-white rounded-md shadow-sm">
           <div className="inline-flex items-center gap-x-1.5 rounded-l-md bg-beige-100 px-5 py-3 text-white">
             <CheckIcon aria-hidden="true" className="-ml-0.5 h-5 w-5" />
+            {/* Display selected title */}
             <p className="text-sm font-semibold">{selected.title}</p>
           </div>
           <ListboxButton className="inline-flex items-center rounded-l-none rounded-r-md bg-beige-100 p-2 hover:bg-beige-125 focus:outline-none focus:ring-2 focus:ring-black focus:ring-offset-2 focus:ring-offset-gray-50">
@@ -64,6 +66,7 @@ export default function SelectMenu({ selectedOption }: SelectMenuProps) {
           </ListboxButton>
         </div>
 
+        {/* Dropdown options */}
         <ListboxOptions
           transition
           className="absolute right-0 z-10 mt-2 w-72 origin-top-right divide-y divide-gray-200 overflow-hidden rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none data-[closed]:data-[leave]:opacity-0 data-[leave]:transition data-[leave]:duration-100 data-[leave]:ease-in"
@@ -76,6 +79,7 @@ export default function SelectMenu({ selectedOption }: SelectMenuProps) {
             >
               <div className="flex flex-col">
                 <div className="flex justify-between">
+                  {/* Display the title of each option */}
                   <p className="font-normal group-data-[selected]:font-semibold">
                     {option.title}
                   </p>

@@ -1,13 +1,26 @@
-'use client'
-import React, { useState, useEffect } from 'react';
+'use client';
+import React, { useState, useEffect, useCallback } from 'react';
 
-const CountdownTimer = ({ endDate }: any) => {
+// Define the type for the time left object
+interface TimeLeft {
+  days: number;
+  hours: number;
+  minutes: number;
+  seconds: number;
+}
 
-  
-  const calculateTimeLeft = () => {
-    const now: any = new Date();
-    const end: any = new Date(endDate);
-    const difference = end - now;
+// Define the props for the CountdownTimer component
+interface CountdownTimerProps {
+  endDate: string; // endDate will be a string representing the target date
+}
+
+const CountdownTimer: React.FC<CountdownTimerProps> = ({ endDate }) => {
+
+  // Memoize the calculateTimeLeft function with useCallback
+  const calculateTimeLeft = useCallback((): TimeLeft => {
+    const now = new Date();
+    const end = new Date(endDate);
+    const difference = end.getTime() - now.getTime();  // Use .getTime() to get the timestamp
 
     if (difference <= 0) {
       return {
@@ -24,17 +37,19 @@ const CountdownTimer = ({ endDate }: any) => {
     const seconds = Math.floor((difference % (1000 * 60)) / 1000);
 
     return { days, hours, minutes, seconds };
-  };
+  }, [endDate]);  // The function depends on endDate, so it's included here
 
-  const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
+  // Use the timeLeft type defined earlier
+  const [timeLeft, setTimeLeft] = useState<TimeLeft>(calculateTimeLeft());
 
   useEffect(() => {
     const timer = setInterval(() => {
       setTimeLeft(calculateTimeLeft());
     }, 1000);
 
+    // Cleanup the timer on unmount
     return () => clearInterval(timer);
-  }, [endDate]);
+  }, [calculateTimeLeft]);  // No need to include endDate here since it's a dependency of calculateTimeLeft
 
   return (
     <p className="text-base font-bold text-gray-500">

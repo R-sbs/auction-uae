@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Category from "./Category";
-import Image, { StaticImageData } from "next/image";
+import { StaticImageData } from "next/image";
 import bankImg from "@/images/categories/banknotes.jpg";
 import carsImg from "@/images/categories/cars.jpeg";
 import coinsImg from "@/images/categories/coins.jpg";

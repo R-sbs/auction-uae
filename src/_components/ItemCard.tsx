@@ -3,7 +3,6 @@ import Link from "next/link";
 import React, { FC } from "react";
 import Image from "next/image";
 
-import { CheckCircleIcon } from "@heroicons/react/20/solid";
 import ItemProps from "@/types/types";
 
 const ItemCard: FC<ItemProps> = (item) => {
